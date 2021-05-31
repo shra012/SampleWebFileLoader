@@ -12,5 +12,5 @@ This Example was developed by referring the [stackoverflow](https://stackoverflo
 
 ## Walk Through
 This application exposes two routes under the servlet JerseyServlet configured in web.xml
-- `<tomcat-context-root>/sample/myresource/getFileContents/{fileName}` - loads file requested from WEB-INF, replace the fineName with actual file name under the WEB-INF
+- `<tomcat-context-root>/sample/myresource/getFileContents/{fileName}` - loads file requested from WEB-INF, replace the fileName with actual file name under the WEB-INF
 - `<tomcat-context-root>/sample/myresource/getAllFilesFromWebInf` - loads all files from WEB-INF
