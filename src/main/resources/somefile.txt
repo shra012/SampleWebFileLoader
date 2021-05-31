@@ -1,0 +1,1 @@
+I am a file inside WEB-INF of a Restful Service.
